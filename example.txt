@@ -1,0 +1,3 @@
+This is an example file for testing the read_file tool.
+It contains some simple text.
+Go is fun!
